@@ -10,6 +10,10 @@
 | **État** | Fichier **brut**, publié tel que téléchargé, sans aucun nettoyage. Empreinte SHA-256 : `cd0affa36b1b981e80ba0e27767e9b3ab723f7a3dba948f722af81abc6b990ea` |
 | **Usage** | Pédagogique, non commercial, dans le cadre d'un cours d'introduction à la data science |
 
+## Licence de ce fichier
+
+Ce fichier n'est pas couvert par une éventuelle licence du dépôt (fichier `LICENSE` à la racine), qui ne concernerait que les notebooks et le code. Il reste sous la licence affichée par sa source, CC0 telle qu'indiquée sur la page Kaggle citée ci-dessus, avec les réserves de provenance exposées plus haut.
+
 ## Retrait sur demande
 
 Ce fichier est republié ici sur la foi de la licence CC0 affichée par la page Kaggle. Si vous êtes titulaire de droits sur ces données et souhaitez leur retrait, ouvrez une *issue* sur ce dépôt : le fichier sera retiré sans délai et les notebooks basculeront sur un chargement direct depuis Kaggle.
