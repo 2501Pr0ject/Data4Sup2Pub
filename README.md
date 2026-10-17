@@ -13,6 +13,7 @@ Cliquez sur le badge pour ouvrir le notebook dans Colab, puis enregistrez une co
 | `00_prise_en_main.ipynb` | [![Ouvrir dans Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/2501Pr0ject/Data4Sup2Pub/blob/main/notebooks/00_prise_en_main.ipynb) |
 | `01_eda.ipynb` | [![Ouvrir dans Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/2501Pr0ject/Data4Sup2Pub/blob/main/notebooks/01_eda.ipynb) |
 | `02_arbre.ipynb` | [![Ouvrir dans Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/2501Pr0ject/Data4Sup2Pub/blob/main/notebooks/02_arbre.ipynb) |
+| `03_evaluer_decider.ipynb` | [![Ouvrir dans Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/2501Pr0ject/Data4Sup2Pub/blob/main/notebooks/03_evaluer_decider.ipynb) |
 
 Chaque notebook se lit de haut en bas : question marketing, courte notion, cellule de code commentée, résultat, question d'interprétation, synthèse métier, limites. Vous n'écrivez pas de code : vous exécutez, vous lisez, vous décidez.
 
